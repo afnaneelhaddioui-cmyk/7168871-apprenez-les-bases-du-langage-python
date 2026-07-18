@@ -1,1 +1,3 @@
-# Écrivez votre code ici !
+nom="Afnane"
+age=16
+print(f"Je m'appelle {nom} et j'ai {age}")
